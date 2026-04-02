@@ -38,10 +38,10 @@
   <a href="https://t.me/GGALiiscrazy" target="_blank">
     <img src="https://img.shields.io/badge/Support-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://github.com/itzshukla" target="_blank">
+  <a href="https://github.com/GGALiiscrazy" target="_blank">
     <img src="https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://gitlab.com/itzshukla" target="_blank">
+  <a href="https://gitlab.com/GGALiiscrazy" target="_blank">
     <img src="https://img.shields.io/badge/GitLab-Visit-orange?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
 </p>
